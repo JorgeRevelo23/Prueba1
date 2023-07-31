@@ -1,8 +1,8 @@
 // Declaración de una variable
-let nombre = "Juan";
+let nombre = "Jorge";
 
 // Impresión en la consola
-console.log("Hola " + nombre + "!");
+console.log("Hola-Rama 1 " + nombre + "!");
 
 // Función que devuelve el cuadrado de un número
 function calcularCuadrado(numero) {

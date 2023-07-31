@@ -7,12 +7,12 @@ body {
   /* Estilos para los encabezados */
   h1 {
     font-size: 36px;
-    color: gray;
+    color: blueviolet;
   }
   
   h2 {
     font-size: 24px;
-    color: black;
+    color: orchid;
   }
   
   /* Estilos para los enlaces */
