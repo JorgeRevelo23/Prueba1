@@ -7,17 +7,17 @@ body {
   /* Estilos para los encabezados */
   h1 {
     font-size: 36px;
-    color: burlywood;
+    color: salmon;
   }
   
   h2 {
     font-size: 24px;
-    color: teal;
+    color: tomato;
   }
   
   /* Estilos para los enlaces */
   a {
-    color: red;
+    color: yellowgreen;
     text-decoration: none;
   }
   
