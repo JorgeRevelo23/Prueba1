@@ -2,7 +2,7 @@
 let nombre = "Juan";
 
 // Impresión en la consola
-console.log("Hola " + nombre + "!");
+console.log("Hola-Rama2-Cambio1 " + nombre + "!");
 
 // Función que devuelve el cuadrado de un número
 function calcularCuadrado(numero) {
